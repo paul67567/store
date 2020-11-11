@@ -8,7 +8,7 @@ import (
 	"github.com/gocraft/web"
 	chart "github.com/wcharczuk/go-chart"
 
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/util"
 )
 
 /*

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/paul67567/store/tree/master/modules/apis"
+	"github.com/paul67567/store/modules/apis"
 )
 
 func EventNewWarning(warning StoreWarning) {

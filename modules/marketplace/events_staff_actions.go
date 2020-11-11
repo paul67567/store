@@ -3,7 +3,7 @@ package marketplace
 import (
 	"fmt"
 
-	"github.com/paul67567/store/tree/master/modules/apis"
+	"github.com/paul67567/store/modules/apis"
 )
 
 func EventNewStaffToUserAction(staff, user User, action string) {

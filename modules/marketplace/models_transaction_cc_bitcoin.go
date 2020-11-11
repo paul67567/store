@@ -1,7 +1,7 @@
 package marketplace
 
 import (
-	"github.com/paul67567/store/tree/master/modules/apis"
+	"github.com/paul67567/store/modules/apis"
 )
 
 type BitcoinTransaction struct {

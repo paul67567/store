@@ -2,7 +2,7 @@ package marketplace
 
 import (
 	"github.com/microcosm-cc/bluemonday"
-	"github.com/paul67567/store/tree/master/modules/settings"
+	"github.com/paul67567/store/modules/settings"
 	"regexp"
 )
 

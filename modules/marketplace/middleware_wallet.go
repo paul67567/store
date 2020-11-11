@@ -2,7 +2,7 @@ package marketplace
 
 import (
 	"github.com/gocraft/web"
-	"github.com/paul67567/store/tree/master/modules/apis"
+	"github.com/paul67567/store/modules/apis"
 )
 
 func (c *Context) BitcoinWalletMiddleware(w web.ResponseWriter, r *web.Request, next web.NextMiddlewareFunc) {

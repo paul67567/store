@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/util"
 )
 
 func GetCurrencyRates(baseCurrency string) (map[string]float64, error) {

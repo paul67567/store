@@ -5,7 +5,7 @@ import (
 	"github.com/gocraft/web"
 	"github.com/mojocn/base64Captcha"
 
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/util"
 )
 
 func (c *Context) ViewListPrivateMessages(w web.ResponseWriter, r *web.Request) {

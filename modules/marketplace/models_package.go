@@ -13,7 +13,7 @@ import (
 
 	"github.com/dustin/go-humanize"
 
-	"github.com/paul67567/store/tree/master/modules/settings"
+	"github.com/paul67567/store/modules/settings"
 )
 
 /*

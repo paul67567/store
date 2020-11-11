@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/url"
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/util"
 )
 
 type BTCPayment struct {

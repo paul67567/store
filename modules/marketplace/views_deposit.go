@@ -9,8 +9,8 @@ import (
 	"github.com/gocraft/web"
 	"github.com/mojocn/base64Captcha"
 
-	"github.com/paul67567/store/tree/master/modules/apis"
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/apis"
+	"github.com/paul67567/store/modules/util"
 )
 
 func (c *Context) ViewShowDeposit(w web.ResponseWriter, r *web.Request) {

@@ -1,7 +1,7 @@
 package apis
 
 import (
-	"github.com/paul67567/store/tree/master/modules/util"
+	"github.com/paul67567/store/modules/util"
 )
 
 type MattermostEventField struct {
