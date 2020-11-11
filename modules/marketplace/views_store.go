@@ -6,7 +6,7 @@ import (
 	"github.com/dchest/captcha"
 	"github.com/gocraft/web"
 	"github.com/mojocn/base64Captcha"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/paul67567/store/tree/master/modules/util"
 )
 
 func (c *Context) viewShowStore(w web.ResponseWriter, r *web.Request) {

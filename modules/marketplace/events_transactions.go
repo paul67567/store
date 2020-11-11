@@ -3,7 +3,7 @@ package marketplace
 import (
 	"fmt"
 
-	"modules/apis"
+	"github.com/paul67567/store/tree/master/modules/apis"
 )
 
 func EventTransactionUpdate(transaction Transaction) {

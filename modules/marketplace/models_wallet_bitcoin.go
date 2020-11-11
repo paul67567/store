@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/apis"
+	"github.com/paul67567/store/tree/master/modules/apis"
 )
 
 /*

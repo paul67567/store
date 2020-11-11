@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gocraft/web"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/paul67567/store/tree/master/modules/util"
 )
 
 func (c *Context) AdminMessagesShow(w web.ResponseWriter, r *web.Request) {

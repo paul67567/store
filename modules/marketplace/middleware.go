@@ -6,7 +6,7 @@ import (
 
 	"github.com/gocraft/web"
 
-	"modules/util"
+	"github.com/paul67567/store/tree/master/modules/util"
 )
 
 func (c *Context) CurrencyMiddleware(w web.ResponseWriter, r *web.Request, next web.NextMiddlewareFunc) {

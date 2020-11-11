@@ -7,7 +7,7 @@ import (
 	// "github.com/wantedly/gorm-zap"
 	// "go.uber.org/zap"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"github.com/paul67567/store/tree/master/modules/settings"
 )
 
 var (

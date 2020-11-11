@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"modules/apis"
+	"github.com/paul67567/store/tree/master/modules/apis"
 )
 
 func EventNewVendorMessageboardPost(user User, vendor User, message Message) {

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"modules/util"
+	"github.com/paul67567/store/tree/master/modules/util"
 )
 
 var localizationMap map[string]Localization
