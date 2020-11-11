@@ -1,8 +1,8 @@
 FROM golang
 
-RUN mkdir -p /go/src/qxklmrhx7qkzais6.onion/Tochka/tochka-free-market
-WORKDIR /go/src/qxklmrhx7qkzais6.onion/Tochka/tochka-free-market
+RUN mkdir -p /go/src/market
+WORKDIR /go/src/market
 
-ADD . /go/src/qxklmrhx7qkzais6.onion/Tochka/tochka-free-market
+ADD . /go/src/market
 
 RUN ./scripts/build.sh
