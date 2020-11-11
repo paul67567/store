@@ -7,8 +7,8 @@ import (
 	"github.com/gocraft/web"
 	"github.com/jasonlvhit/gocron"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"modules/marketplace"
+	"modules/settings"
 )
 
 var (
