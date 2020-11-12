@@ -100,7 +100,7 @@ func loadMarketplaceSettings() MarketplaceSettings {
 }
 
 func GetFileAbsolutePath(relativePath string) string {
-	projectDirectory, exists := os.LookupEnv("TOCHKA_HOME")
+	projectDirectory, exists := os.LookupEnv("market")
 	if !exists {
 		return relativePath
 	}

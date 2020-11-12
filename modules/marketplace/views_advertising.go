@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/gocraft/web"
 	"net/http"
-	"github.com/paul67567/store/modules/apis"
-	"github.com/paul67567/store/modules/util"
+	"modules/apis"
+	"modules/util"
 )
 
 func (c *Context) ViewListAdvertisings(w web.ResponseWriter, r *web.Request) {

@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 /*

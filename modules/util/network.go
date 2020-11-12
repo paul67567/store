@@ -11,7 +11,7 @@ import (
 
 	"golang.org/x/net/proxy"
 
-	"github.com/paul67567/store/modules/settings"
+	"modules/settings"
 )
 
 var (

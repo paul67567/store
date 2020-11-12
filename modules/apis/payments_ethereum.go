@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 type ETHPayment struct {

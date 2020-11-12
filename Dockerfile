@@ -1,8 +1,8 @@
 FROM golang
 
-RUN mkdir -p /go/src/market
-WORKDIR /go/src/market
+RUN mkdir -p /market
+WORKDIR /market
 
-ADD . /go/src/market
+ADD . /market
 
 RUN ./scripts/build.sh

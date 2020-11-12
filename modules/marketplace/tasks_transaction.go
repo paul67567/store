@@ -4,7 +4,7 @@ import (
 	"github.com/helloyi/go-waitgroup"
 	"github.com/robfig/cron"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 // TaskCleanInactiveReservations is a cron job that runs every 5 minutes.

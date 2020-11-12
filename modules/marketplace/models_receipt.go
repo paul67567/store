@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/paul67567/store/modules/apis"
+	"modules/apis"
 )
 
 /*

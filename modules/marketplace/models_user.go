@@ -12,8 +12,8 @@ import (
 	"golang.org/x/crypto/openpgp"
 	"golang.org/x/crypto/openpgp/armor"
 
-	"github.com/paul67567/store/modules/apis"
-	"github.com/paul67567/store/modules/util"
+	"modules/apis"
+	"modules/util"
 )
 
 var (

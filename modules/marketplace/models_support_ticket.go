@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 type SupportTicket struct {

@@ -1,7 +1,7 @@
 package marketplace
 
 import (
-	"github.com/paul67567/store/modules/apis"
+	"modules/apis"
 )
 
 type EthereumTransaction struct {

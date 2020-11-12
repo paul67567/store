@@ -14,8 +14,8 @@ import (
 	"github.com/mojocn/base64Captcha"
 	"github.com/skip2/go-qrcode"
 
-	"github.com/paul67567/store/modules/apis"
-	"github.com/paul67567/store/modules/util"
+	"modules/apis"
+	"modules/util"
 )
 
 func (c *Context) UserAvatar(w web.ResponseWriter, r *web.Request) {

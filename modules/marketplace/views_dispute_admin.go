@@ -8,7 +8,7 @@ import (
 
 	"github.com/gocraft/web"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 func (c *Context) AdminDisputeList(w web.ResponseWriter, r *web.Request) {

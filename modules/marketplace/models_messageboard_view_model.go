@@ -8,7 +8,7 @@ import (
 	"github.com/dustin/go-humanize"
 	"github.com/russross/blackfriday"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 func init() {

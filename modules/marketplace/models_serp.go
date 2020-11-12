@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/lib/pq"
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 /*

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/jinzhu/gorm"
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 type Dispute struct {

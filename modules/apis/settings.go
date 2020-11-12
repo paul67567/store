@@ -1,7 +1,7 @@
 package apis
 
 import (
-	"github.com/paul67567/store/modules/settings"
+	"modules/settings"
 )
 
 var (

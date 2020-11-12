@@ -7,8 +7,8 @@ import (
 	"github.com/gocraft/web"
 	"github.com/jasonlvhit/gocron"
 
-	"github.com/paul67567/store/modules/marketplace"
-	"github.com/paul67567/store/modules/settings"
+	"modules/marketplace"
+	"modules/settings"
 )
 
 var (

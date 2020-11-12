@@ -3,7 +3,7 @@ package marketplace
 import (
 	"github.com/gocraft/web"
 
-	"github.com/paul67567/store/modules/settings"
+	"modules/settings"
 )
 
 func ConfigureRouter(router *web.Router) *web.Router {

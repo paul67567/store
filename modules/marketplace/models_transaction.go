@@ -8,7 +8,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 
-	"github.com/paul67567/store/modules/apis"
+	"modules/apis"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 
 	"github.com/gocraft/web"
 
-	"github.com/paul67567/store/modules/util"
+	"modules/util"
 )
 
 func (c *Context) MessageImage(w web.ResponseWriter, r *web.Request) {
