@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"modules/marketplace"
-	_ "modules/util"
+	"github.com/paul67567/marketplace"
+	_ "github.com/paul67567/util"
 )
 
 func manageRole(username, action, role string) {
